@@ -1,0 +1,10 @@
+C:\Dev\Git\Console\DuplicateIDSearch\DuplicateIDSearchMSBuildTask\obj\Debug\DuplicateIDSearchMSBuildTask.csprojResolveAssemblyReference.cache
+C:\Dev\Git\Console\DuplicateIDSearch\DuplicateIDSearchMSBuildTask\bin\Debug\DuplicateIDSearchMSBuildTask.dll
+C:\Dev\Git\Console\DuplicateIDSearch\DuplicateIDSearchMSBuildTask\bin\Debug\DuplicateIDSearchMSBuildTask.pdb
+C:\Dev\Git\Console\DuplicateIDSearch\DuplicateIDSearchMSBuildTask\obj\Debug\DuplicateIDSearchMSBuildTask.dll
+C:\Dev\Git\Console\DuplicateIDSearch\DuplicateIDSearchMSBuildTask\obj\Debug\DuplicateIDSearchMSBuildTask.pdb
+C:\dev\Larry_DuplicateFinder\DuplicateIDSearchMSBuildTask\DuplicateIDSearchMSBuildTask\bin\Debug\DuplicateIDSearchMSBuildTask.dll
+C:\dev\Larry_DuplicateFinder\DuplicateIDSearchMSBuildTask\DuplicateIDSearchMSBuildTask\bin\Debug\DuplicateIDSearchMSBuildTask.pdb
+C:\dev\Larry_DuplicateFinder\DuplicateIDSearchMSBuildTask\DuplicateIDSearchMSBuildTask\obj\Debug\DuplicateIDSearchMSBuildTask.csprojResolveAssemblyReference.cache
+C:\dev\Larry_DuplicateFinder\DuplicateIDSearchMSBuildTask\DuplicateIDSearchMSBuildTask\obj\Debug\DuplicateIDSearchMSBuildTask.dll
+C:\dev\Larry_DuplicateFinder\DuplicateIDSearchMSBuildTask\DuplicateIDSearchMSBuildTask\obj\Debug\DuplicateIDSearchMSBuildTask.pdb

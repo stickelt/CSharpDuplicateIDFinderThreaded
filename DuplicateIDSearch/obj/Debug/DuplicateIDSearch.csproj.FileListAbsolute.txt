@@ -1,0 +1,12 @@
+C:\Dev\Git\Console\DuplicateIDSearch\DuplicateIDSearch\bin\Debug\DuplicateIDSearch.exe.config
+C:\Dev\Git\Console\DuplicateIDSearch\DuplicateIDSearch\bin\Debug\DuplicateIDSearch.exe
+C:\Dev\Git\Console\DuplicateIDSearch\DuplicateIDSearch\bin\Debug\DuplicateIDSearch.pdb
+C:\Dev\Git\Console\DuplicateIDSearch\DuplicateIDSearch\obj\Debug\DuplicateIDSearch.csprojResolveAssemblyReference.cache
+C:\Dev\Git\Console\DuplicateIDSearch\DuplicateIDSearch\obj\Debug\DuplicateIDSearch.exe
+C:\Dev\Git\Console\DuplicateIDSearch\DuplicateIDSearch\obj\Debug\DuplicateIDSearch.pdb
+C:\dev\Larry_DuplicateFinder\DuplicateIDSearchMSBuildTask\DuplicateIDSearch\bin\Debug\DuplicateIDSearch.exe.config
+C:\dev\Larry_DuplicateFinder\DuplicateIDSearchMSBuildTask\DuplicateIDSearch\obj\Debug\DuplicateIDSearch.exe
+C:\dev\Larry_DuplicateFinder\DuplicateIDSearchMSBuildTask\DuplicateIDSearch\obj\Debug\DuplicateIDSearch.pdb
+C:\dev\Larry_DuplicateFinder\DuplicateIDSearchMSBuildTask\DuplicateIDSearch\bin\Debug\DuplicateIDSearch.exe
+C:\dev\Larry_DuplicateFinder\DuplicateIDSearchMSBuildTask\DuplicateIDSearch\bin\Debug\DuplicateIDSearch.pdb
+C:\dev\Larry_DuplicateFinder\DuplicateIDSearchMSBuildTask\DuplicateIDSearch\obj\Debug\DuplicateIDSearch.csprojResolveAssemblyReference.cache
